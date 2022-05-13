@@ -1,0 +1,22 @@
+[
+    {
+        "flight_destination": "Thailand",
+        "flight_number": "TH130",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Moscow",
+        "flight_number": "MO234",
+        "airplane_type": "Military"
+    },
+    {
+        "flight_destination": "Japan",
+        "flight_number": "RF213",
+        "airplane_type": "Cargo"
+    },
+    {
+        "flight_destination": "Uganda",
+        "flight_number": "JQ412",
+        "airplane_type": "Military"
+    }
+]

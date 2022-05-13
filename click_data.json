@@ -1,0 +1,27 @@
+[
+    {
+        "flight_destination": "Hungary",
+        "flight_number": "HG156",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Zimbabwe",
+        "flight_number": "ZB228",
+        "airplane_type": "Passenger"
+    },
+    {
+        "flight_destination": "Zimbabwe",
+        "flight_number": "ZB236",
+        "airplane_type": "Sanitary"
+    },
+    {
+        "flight_destination": "Paragway",
+        "flight_number": "SDQ14",
+        "airplane_type": "Cargo"
+    },
+    {
+        "flight_destination": "Paragway",
+        "flight_number": "SDQ14",
+        "airplane_type": "Cargo"
+    }
+]
